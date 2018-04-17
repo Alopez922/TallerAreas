@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TallerAreas</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volúmenes</string>
+    <string name="op_realizadas">Operaciones Realizadas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="error">Por favor ingresar un digito</string>
+    <string name="resultado">Resultado: </string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultado2">Resultado</string>
+    <string name="valor_lado">Valor del lado</string>
+    <string name="valor_lado_a">Valor del lado A</string>
+    <string name="valor_lado_b">Valor del lado B</string>
+    <string name="valor_base">Valor de la base</string>
+    <string name="valor_altura">Valor de la altura</string>
+    <string name="valor_radio">Valor de la radio</string>
+
+    <string-array name="operaciones_principal">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/op_realizadas</item>
+    </string-array>
+
+
+
+    <string-array name="opciones_areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+
+
+    <string-array name="opciones_volumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerAreas</string>
+    <string name="Areas">Areas</string>
+    <string name="Volumenes">volumes</string>
+    <string name="OperacionesRealizadas">" operations performed"</string>
+    <string name="Cuadrado">Quadrate</string>
+    <string name="Rectangulo">" Rectangle"</string>
+    <string name="Triangulo">Triangle</string>
+    <string name="Circulo">Circle</string>
+    <string name="Esfera">Sphere</string>
+    <string name="Cilindro">" Cylinder"</string>
+    <string name="Cono">Cone</string>
+    <string name="Cubo">Cube</string>
+</resources>
